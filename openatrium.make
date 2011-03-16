@@ -188,7 +188,6 @@ projects[tao][version] = "3.2"
 projects[rubik][type] = "theme"
 projects[rubik][version] = "3.0-beta2"
 
-projects[ginkgo][type] = "theme"
 projects[ginkgo][location] = "http://featureserver.phase2technology.com/fserver"
 projects[ginkgo][version] = "1.0-alpha10"
 
