@@ -194,3 +194,31 @@ libraries[translations][download][type] = "get"
 libraries[translations][download][url] = "https://translate.openatrium.com/sites/translate.openatrium.com/files/atrium-installer-beta9.tar.gz"
 libraries[translations][directory_name] = "translations"
 libraries[translations][destination] = "."
+
+; Extra by omega8cc
+projects[atrium_apachesolr_search][subdir] = "atrium_features"
+projects[atrium_apachesolr_search][location] = "http://features.chapterthree.com/fserver"
+projects[atrium_apachesolr_search][version] = "1.0"
+
+projects[ideation][subdir] = "atrium_features"
+projects[ideation] = 1.0-rc1
+
+projects[better_exposed_filters][subdir] = "contrib"
+projects[better_exposed_filters] = 1.0
+
+projects[fivestar][subdir] = "contrib"
+projects[fivestar] = 1.19
+
+projects[votingapi][subdir] = "contrib"
+projects[votingapi] = 2.3
+
+projects[data][subdir] = "contrib"
+projects[data] = 1.0-alpha14
+
+projects[apachesolr][subdir] = "contrib"
+projects[apachesolr] = 1.0
+
+libraries[SolrPhpClient][download][type] = "get"
+libraries[SolrPhpClient][download][url] = "http://solr-php-client.googlecode.com/files/SolrPhpClient.r22.2009-11-09.tgz"
+libraries[SolrPhpClient][directory_name] = "SolrPhpClient"
+libraries[SolrPhpClient][destination] = "modules/contrib/apachesolr"
