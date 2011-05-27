@@ -123,6 +123,22 @@ projects[transliteration][version] = "3.0"
 projects[ucreate][subdir] = "contrib"
 projects[ucreate][version] = "1.0-beta4"
 
+; Extra by omega8cc
+projects[ideation][subdir] = "contrib"
+projects[ideation] = "1.0-rc1"
+
+projects[better_exposed_filters][subdir] = "contrib"
+projects[better_exposed_filters] = "1.0"
+
+projects[fivestar][subdir] = "contrib"
+projects[fivestar] = "1.19"
+
+projects[votingapi][subdir] = "contrib"
+projects[votingapi] = "2.3"
+
+projects[data][subdir] = "contrib"
+projects[data] = "1.0-alpha14"
+
 projects[views][subdir] = "contrib"
 projects[views][type] = "module"
 projects[views][version] = "2.12"
@@ -159,29 +175,9 @@ projects[schema][version] = "1.7"
 projects[simpletest][subdir] = "developer"
 projects[simpletest][version] = "2.11"
 
-; Extra by omega8cc
-projects[ideation][subdir] = "atrium_features"
-projects[ideation] = 1.0-rc1
-
-projects[better_exposed_filters][subdir] = "contrib"
-projects[better_exposed_filters] = 1.0
-
-projects[fivestar][subdir] = "contrib"
-projects[fivestar] = 1.19
-
-projects[votingapi][subdir] = "contrib"
-projects[votingapi] = 2.3
-
-projects[data][subdir] = "contrib"
-projects[data] = 1.0-alpha14
-
 ; Features
 projects[atrium_features][location] = "http://featureserver.phase2technology.com/fserver"
 projects[atrium_features][version] = "1.0-alpha11"
-
-; Extra by omega8cc
-projects[ideation][subdir] = "atrium_features"
-projects[ideation] = 1.0-rc1
 
 ; l10n
 projects[core_translation][subdir] = "l10n"
