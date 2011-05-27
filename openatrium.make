@@ -124,20 +124,20 @@ projects[ucreate][subdir] = "contrib"
 projects[ucreate][version] = "1.0-beta4"
 
 ; Extra by omega8cc
-;projects[ideation][subdir] = "contrib"
-;projects[ideation] = "1.0-rc1"
+projects[ideation][subdir] = "contrib"
+projects[ideation][version] = "1.0-rc1"
 
 projects[better_exposed_filters][subdir] = "contrib"
-projects[better_exposed_filters] = "1.0"
+projects[better_exposed_filters][version] = "1.0"
 
 projects[fivestar][subdir] = "contrib"
-projects[fivestar] = "1.19"
+projects[fivestar][version] = "1.19"
 
 projects[votingapi][subdir] = "contrib"
-projects[votingapi] = "2.3"
+projects[votingapi][version] = "2.3"
 
 projects[data][subdir] = "contrib"
-projects[data] = "1.0-alpha14"
+projects[data][version] = "1.0-alpha14"
 
 projects[views][subdir] = "contrib"
 projects[views][type] = "module"
