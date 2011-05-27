@@ -124,7 +124,7 @@ projects[ucreate][subdir] = "contrib"
 projects[ucreate][version] = "1.0-beta4"
 
 ; Extra by omega8cc
-projects[ideation][subdir] = "contrib"
+projects[ideation][subdir] = "atrium_features"
 projects[ideation][version] = "1.0-rc1"
 
 projects[better_exposed_filters][subdir] = "contrib"
