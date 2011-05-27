@@ -195,7 +195,7 @@ libraries[translations][download][url] = "https://translate.openatrium.com/sites
 libraries[translations][directory_name] = "translations"
 libraries[translations][destination] = "."
 
-; Extra by omega8cc
+; Ideation Feature
 projects[ideation][subdir] = "atrium_features"
 projects[ideation][version] = "1.0-rc1"
 
