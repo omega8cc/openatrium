@@ -123,22 +123,6 @@ projects[transliteration][version] = "3.0"
 projects[ucreate][subdir] = "contrib"
 projects[ucreate][version] = "1.0-beta4"
 
-; Extra by omega8cc
-projects[ideation][subdir] = "atrium_features"
-projects[ideation][version] = "1.0-rc1"
-
-projects[better_exposed_filters][subdir] = "contrib"
-projects[better_exposed_filters][version] = "1.0"
-
-projects[fivestar][subdir] = "contrib"
-projects[fivestar][version] = "1.19"
-
-projects[votingapi][subdir] = "contrib"
-projects[votingapi][version] = "2.3"
-
-projects[data][subdir] = "contrib"
-projects[data][version] = "1.0-alpha14"
-
 projects[views][subdir] = "contrib"
 projects[views][type] = "module"
 projects[views][version] = "2.12"
@@ -210,3 +194,20 @@ libraries[translations][download][type] = "get"
 libraries[translations][download][url] = "https://translate.openatrium.com/sites/translate.openatrium.com/files/atrium-installer-beta9.tar.gz"
 libraries[translations][directory_name] = "translations"
 libraries[translations][destination] = "."
+
+; Extra by omega8cc
+projects[ideation][subdir] = "atrium_features"
+projects[ideation][version] = "1.0-rc1"
+
+projects[better_exposed_filters][subdir] = "contrib"
+projects[better_exposed_filters][version] = "1.0"
+
+projects[fivestar][subdir] = "contrib"
+projects[fivestar][version] = "1.19"
+
+projects[votingapi][subdir] = "contrib"
+projects[votingapi][version] = "2.3"
+
+projects[data][subdir] = "contrib"
+projects[data][version] = "1.0-alpha14"
+
