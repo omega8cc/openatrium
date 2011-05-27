@@ -196,9 +196,9 @@ libraries[translations][directory_name] = "translations"
 libraries[translations][destination] = "."
 
 ; Extra by omega8cc
-projects[atrium_apachesolr_search][subdir] = "atrium_features"
-projects[atrium_apachesolr_search][location] = "http://features.chapterthree.com/fserver"
-projects[atrium_apachesolr_search][version] = "1.0"
+;projects[atrium_apachesolr_search][subdir] = "atrium_features"
+;projects[atrium_apachesolr_search][location] = "http://features.chapterthree.com/fserver"
+;projects[atrium_apachesolr_search][version] = "1.0"
 
 projects[ideation][subdir] = "atrium_features"
 projects[ideation] = 1.0-rc1
@@ -215,10 +215,10 @@ projects[votingapi] = 2.3
 projects[data][subdir] = "contrib"
 projects[data] = 1.0-alpha14
 
-projects[apachesolr][subdir] = "contrib"
-projects[apachesolr] = 1.0
+;projects[apachesolr][subdir] = "contrib"
+;projects[apachesolr] = 1.0
 
-libraries[SolrPhpClient][download][type] = "get"
-libraries[SolrPhpClient][download][url] = "http://solr-php-client.googlecode.com/files/SolrPhpClient.r22.2009-11-09.tgz"
-libraries[SolrPhpClient][directory_name] = "SolrPhpClient"
-libraries[SolrPhpClient][destination] = "modules/contrib/apachesolr"
+;libraries[SolrPhpClient][download][type] = "get"
+;libraries[SolrPhpClient][download][url] = "http://solr-php-client.googlecode.com/files/SolrPhpClient.r22.2009-11-09.tgz"
+;libraries[SolrPhpClient][directory_name] = "SolrPhpClient"
+;libraries[SolrPhpClient][destination] = "modules/contrib/apachesolr"
