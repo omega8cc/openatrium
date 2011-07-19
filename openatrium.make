@@ -189,7 +189,7 @@ libraries[jquery_ui][destination] = "modules/contrib/jquery_ui"
 
 ; Translations for openatrium install profile
 libraries[translations][download][type] = "get"
-libraries[translations][download][url] = "https://translate.openatrium.com/sites/translate.openatrium.com/files/atrium-installer-beta9.tar.gz"
+libraries[translations][download][url] = "http://files.aegir.cc/dev/atrium-installer-beta9.tar.gz"
 libraries[translations][directory_name] = "translations"
 libraries[translations][destination] = "."
 
