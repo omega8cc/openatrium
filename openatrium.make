@@ -181,7 +181,7 @@ projects[rubik][version] = "3.0-beta2"
 projects[ginkgo][type] = "theme"
 projects[ginkgo][download][type] = "git"
 projects[ginkgo][download][url] = "http://github.com/phase2/ginkgo.git"
-projects[ginkgo][download][branch] = "master"
+projects[ginkgo][download][tag] = "6.x-1.0"
 
 ; Libraries
 libraries[jquery_ui][download][type] = "get"
