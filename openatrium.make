@@ -134,7 +134,7 @@ projects[ucreate][version] = "1.0-beta4"
 
 projects[views][subdir] = "contrib"
 projects[views][type] = "module"
-projects[views][version] = "2.16"
+projects[views][version] = "2.13"
 ; http://drupal.org/node/694094
 projects[views][patch][] = "http://drupal.org/files/issues/views-static-cache-resets-694094-7.patch"
 ; original issue: http://drupal.org/node/357529
