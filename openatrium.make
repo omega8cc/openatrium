@@ -140,9 +140,9 @@ projects[views][patch][] = "http://drupal.org/files/issues/views-static-cache-re
 ; original issue: http://drupal.org/node/357529
 projects[views][patch][] = "http://cloud.github.com/downloads/developmentseed/atrium_features/views2_simple_translatables.patch"
 ; http://drupal.org/node/789674#comment-3230930
-projects[views][patch][] = "http://drupal.org/files/789674-29-vocabulary_module-6.x-2.x.patch"
+;projects[views][patch][] = "http://drupal.org/files/789674-29-vocabulary_module-6.x-2.x.patch"
 ; fix views SQL missing alias
-projects[views][patch][] = "https://raw.github.com/gist/1434459/99c827d0500acd78c2e428a72eb1d29d642d1a2a/views-2.16-1040744.patch"
+;projects[views][patch][] = "https://raw.github.com/gist/1434459/99c827d0500acd78c2e428a72eb1d29d642d1a2a/views-2.16-1040744.patch"
 
 projects[xref][subdir] = "contrib"
 projects[xref][version] = "1.0"
