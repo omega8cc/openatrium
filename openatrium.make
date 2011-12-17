@@ -144,8 +144,6 @@ projects[views][patch][] = "http://cloud.github.com/downloads/developmentseed/at
 ; projects[views][patch][] = "http://drupal.org/files/789674-29-vocabulary_module-6.x-2.x.patch"
 ; fix views SQL missing alias
 ; projects[views][patch][] = "https://raw.github.com/gist/1434459/99c827d0500acd78c2e428a72eb1d29d642d1a2a/views-2.16-1040744.patch"
-; http://drupal.org/node/853864#comment-3898996
-projects[views][patch][] = "http://drupal.org/files/issues/views-853864_2.patch"
 ; http://drupal.org/node/402944#comment-5370400
 projects[views][patch][] = "http://drupal.org/files/views-unpack_options-cache-6.2-51.patch"
 
