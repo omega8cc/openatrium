@@ -134,7 +134,7 @@ projects[ucreate][version] = "1.0-beta4"
 
 projects[views][subdir] = "contrib"
 projects[views][type] = "module"
-projects[views][version] = "2.12"
+projects[views][version] = "2.13"
 ; http://drupal.org/node/694094
 projects[views][patch][] = "http://drupal.org/files/issues/views-static-cache-resets-694094-7.patch"
 ; original issue: http://drupal.org/node/357529
@@ -161,8 +161,8 @@ projects[simpletest][version] = "2.11"
 ; Features
 projects[atrium_features][type] = "module"
 projects[atrium_features][download][type] = "git"
-projects[atrium_features][download][url] = "http://git.drupal.org/project/atrium_features.git"
-;projects[atrium_features][download][tag] = "6.x-1.x"
+projects[atrium_features][download][url] = "http://github.com/phase2/atrium_features.git"
+projects[atrium_features][download][branch] = "master"
 
 ; l10n
 projects[l10n_client][subdir] = "l10n"
