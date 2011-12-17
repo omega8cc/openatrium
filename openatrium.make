@@ -95,6 +95,7 @@ projects[nodeformcols][version] = "1.6"
 
 projects[notifications][subdir] = "contrib"
 projects[notifications][version] = "2.3"
+projects[notifications][patch][] = "https://raw.github.com/gist/1444791/77e3bc869fe8fab2b78f782c28799e662a959dad/plain_check--notification-6.x-2.3.patch"
 
 projects[notifications_team][subdir] = "contrib"
 projects[notifications_team][version] = "2.1-beta8"
@@ -121,7 +122,7 @@ projects[spaces][subdir] = "contrib"
 projects[spaces][version = "3.2"
 
 projects[strongarm][subdir] = "contrib"
-projects[strongarm][version] = "2.0"
+projects[strongarm][version] = "2.1"
 
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.18"
@@ -134,25 +135,25 @@ projects[ucreate][version] = "1.0-beta4"
 
 projects[views][subdir] = "contrib"
 projects[views][type] = "module"
-projects[views][version] = "2.13"
+projects[views][version] = "2.16"
 ; http://drupal.org/node/694094
 projects[views][patch][] = "http://drupal.org/files/issues/views-static-cache-resets-694094-7.patch"
 ; original issue: http://drupal.org/node/357529
 projects[views][patch][] = "http://cloud.github.com/downloads/developmentseed/atrium_features/views2_simple_translatables.patch"
 ; http://drupal.org/node/789674#comment-3230930
-;projects[views][patch][] = "http://drupal.org/files/789674-29-vocabulary_module-6.x-2.x.patch"
+projects[views][patch][] = "http://drupal.org/files/789674-29-vocabulary_module-6.x-2.x.patch"
 ; fix views SQL missing alias
-;projects[views][patch][] = "https://raw.github.com/gist/1434459/99c827d0500acd78c2e428a72eb1d29d642d1a2a/views-2.16-1040744.patch"
+projects[views][patch][] = "https://raw.github.com/gist/1434459/99c827d0500acd78c2e428a72eb1d29d642d1a2a/views-2.16-1040744.patch"
 
 projects[xref][subdir] = "contrib"
 projects[xref][version] = "1.0"
 
 ; Development modules
 projects[coder][subdir] = "developer"
-projects[coder][version] = "2.0-beta1"
+projects[coder][version] = "2.0-rc1"
 
 projects[devel][subdir] = "developer"
-projects[devel][version] = "1.24"
+projects[devel][version] = "1.26"
 
 projects[schema][subdir] = "developer"
 projects[schema][version] = "1.7"
